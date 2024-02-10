@@ -1,6 +1,11 @@
 # Causal Matching using Random Hyperplane Tessellations
 This repo contains an example implementation of the RHPT 1-Nearest Neighbor matching, described in the CLeaR 2024 paper "Causal Matching using Random Hyperplane Tessellations".
 
+Authors:- 
+- Abhishek Dalvi
+- Neil Ashtekar
+- Vasant Honavar
+
 In reponse to the challenges posed by the curse of dimensionality in traditional matching techniques for high-dimensional covariates, we introduce matching using Random Hyperplane Tessellations (RHPT). This method, grounded in the principles of locality-sensitive hashing, offers a simple, fast, and highly effective approach to matching. Below is an example on how RHPT works
 
 <p align="center">
