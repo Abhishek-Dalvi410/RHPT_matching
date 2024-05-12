@@ -1,11 +1,5 @@
 # Causal Matching using Random Hyperplane Tessellations
 This repo contains an example implementation of the RHPT 1-Nearest Neighbor matching, described in the CLeaR 2024 paper "Causal Matching using Random Hyperplane Tessellations".
-
-Authors:- 
-- Abhishek Dalvi
-- Neil Ashtekar
-- Vasant Honavar
-
 ```
 @InProceedings{pmlr-v236-dalvi24a,
   title = 	 {Causal Matching using Random Hyperplane Tessellations},
