@@ -6,6 +6,22 @@ Authors:-
 - Neil Ashtekar
 - Vasant Honavar
 
+```
+@InProceedings{pmlr-v236-dalvi24a,
+  title = 	 {Causal Matching using Random Hyperplane Tessellations},
+  author =       {Dalvi, Abhishek and Ashtekar, Neil and Honavar, Vasant G},
+  booktitle = 	 {Proceedings of the Third Conference on Causal Learning and Reasoning},
+  pages = 	 {688--702},
+  year = 	 {2024},
+  editor = 	 {Locatello, Francesco and Didelez, Vanessa},
+  volume = 	 {236},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {01--03 Apr},
+  publisher =    {PMLR}
+}
+
+```
+
 In reponse to the challenges posed by the curse of dimensionality in traditional matching techniques for high-dimensional covariates, we introduce matching using Random Hyperplane Tessellations (RHPT). This method, grounded in the principles of locality-sensitive hashing, offers a simple, fast, and highly effective approach to matching. Below is an example on how RHPT works
 
 <p align="center">
